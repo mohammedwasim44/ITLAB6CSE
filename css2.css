@@ -1,0 +1,53 @@
+body{
+background-image:url("/home/itsec3/Downloads/images.jpeg");
+height:100%;
+width:100%;
+background-attachment:scroll;
+background-attachment:fixed;
+}
+div p{
+font-size:50px;
+color:red;
+font-family:Sans-Serif;
+}
+p{
+font-family:georgia;
+color:blue;
+font-size:large;
+font-weight:500;
+letter-spacing:5px;
+word-spacing:5px;
+}
+p.redtext
+{
+font-family:Verdana;
+font-size:70px;
+color:orange;
+text-indent:50cm'
+text-decoration:underline;
+text-transform:capitalize;
+text-shadow:4px 4px 8px blue;
+}
+.ff
+{
+font-family:Tahoma;
+font-size:small;
+color:#FF0000;
+text-decoration:line-through;
+text-transform:uppercase;
+text-shadow:5px 5px 8px black;
+}
+#cc
+{
+font-family:Helvetica;
+font-size:60px;
+color:maroon;
+text-decoration:overline;
+text-transform:lowercase;
+text-shadow:5px 5px 8px black;
+}
+img{
+border:5px ridge red;
+width:50%;
+height:50%;
+}

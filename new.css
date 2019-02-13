@@ -1,0 +1,31 @@
+body{
+background-image:url("/home/itsec3/Downloads/images.jpeg");
+height:100%;
+width:100%;
+background-attachment:scroll;
+background-attachment:fixed;
+}
+div p{
+font-size:50px;
+color:red;
+font-family:Sans-Serif;
+}
+p{
+font-family:georgia;
+color:blue;
+}
+img{
+border-style:dotted;
+border-width:10px;
+border-color:blue red green yellow;
+border-top-style:solid;
+border-right-style:solid;
+margin:75px;
+}
+a:hover{
+background-color:blue;
+color:black;
+padding:14px 25px;
+text-align:center;
+text-decoration:none;
+}
